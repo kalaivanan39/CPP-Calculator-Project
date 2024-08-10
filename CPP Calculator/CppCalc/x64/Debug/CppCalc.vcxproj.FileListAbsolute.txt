@@ -1,0 +1,7 @@
+D:\temp\CppCalc\CppCalc\x64\Debug\CppCalc.vcxproj.AssemblyReference.cache
+D:\temp\CppCalc\CppCalc\x64\Debug\CppCalc.vcxproj.SuggestedBindingRedirects.cache
+D:\temp\CppCalc\CppCalc\x64\Debug\CppCalc.Calc.resources
+D:\temp\CppCalc\CppCalc\x64\Debug\CppCalc.vcxproj.GenerateResource.cache
+D:\MY PROJECTS\C++ Projects\CppCalc\CppCalc\x64\Debug\CppCalc.vcxproj.AssemblyReference.cache
+D:\MY PROJECTS\C++ Projects\CppCalc\CppCalc\x64\Debug\CppCalc.Calc.resources
+D:\MY PROJECTS\C++ Projects\CppCalc\CppCalc\x64\Debug\CppCalc.vcxproj.GenerateResource.cache
